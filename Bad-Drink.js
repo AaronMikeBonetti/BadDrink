@@ -154,7 +154,7 @@ function numQuestion() {
 	}
 }
 function drink1(){
-	drinkName.innerHTML= "Hawaiian Feet Water";
+	drinkName.innerHTML= "Hawaiian Feet Punch";
 	ing1.innerHTML = "1 Gallon of Water - perferably bath water-" ;
 	ing2.innerHTML = "2Ibs Forest Garbage" ;
 	ing3.innerHTML = "Gram Gram's feet -soak 9 hours-" ;
