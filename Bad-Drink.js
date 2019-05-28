@@ -9,6 +9,9 @@ var colors = [
 	"rgb(255, 69, 0)",
 	"#00fff5"
   ];
+
+
+
 var drinkHead = document.querySelector('#quiz-header');
 var index = 0;
 var iterations = 0;
